@@ -1,0 +1,18 @@
+{
+  "name": "epe3_appmov",
+  "version": "1.0.0",
+  "description": "proyecto aplicaciones moviles EPE3",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
